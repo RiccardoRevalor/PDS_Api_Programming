@@ -1,0 +1,4 @@
+piero_pierini forza_toro
+piero_pierini gabbiano_pescatore
+forza_toro gabbiano_pescatore
+gabbiano_pescatore babbo_natale
